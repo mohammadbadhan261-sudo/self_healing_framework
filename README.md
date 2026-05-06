@@ -4,6 +4,7 @@ Overview
 This project implements a hybrid self-healing test automation framework using rule-based and machine learning techniques.
 
 Features
+
 Automatic failure detection
 Locator repair (XPath, CSS)
 ML-based prediction
